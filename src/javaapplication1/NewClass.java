@@ -6,7 +6,7 @@ package javaapplication1;
 
 /**
  *
- * @author Aluno
+ * @author
  */
 public class NewClass {
     
